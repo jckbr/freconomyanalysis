@@ -62,6 +62,7 @@ Tables used
 	<img src="Tables/Table9.png" width="19%">
 	<img src="Tables/Table10.png" width="19%">
 </p>
+
 ***
 
 Skills used/learned:
