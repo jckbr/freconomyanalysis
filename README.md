@@ -1,5 +1,5 @@
 # freconomyanalysis
-This is part of a paper for an international economics class at Kettering University
+This is part of a paper for an international economics class at Kettering University taken in Winter 2022
 
 I chose to focus on the French economy in 2010 and 2019, looking at different aspects such as exports and imports, export and import markets, as well as different metrics between the time frame.
 
