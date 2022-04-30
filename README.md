@@ -62,6 +62,18 @@ Tables used
 	<img src="Tables/Table9.png" width="19%">
 	<img src="Tables/Table10.png" width="19%">
 </p>
+***
+
+Skills used/learned:
+- Microsoft Office
+- Python
+- Pandas
+- Bokeh
+- Reading CSV
+- Creating interactive figures
+- Analyzing data using Pandas
+
+***
 
 A copy of the paper associated with this project may be shared upon request. Email me at jcl@ltgi.net
 
